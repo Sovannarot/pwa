@@ -1,0 +1,28 @@
+{
+  "name": "SovannarotApp",
+  "short_name": "RotApp",
+  "description": "This App for remind you to do something",
+  "theme_color": "#e91e63",
+  "background_color": "#ffffff",
+  "display": "minimal-ui",
+  " scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
